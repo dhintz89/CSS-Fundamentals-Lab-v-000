@@ -5,7 +5,6 @@ body {
 }
 
 header {
-  margin-right: auto;
-  margin-left: auto;
+  box-align: center;
 }
 
