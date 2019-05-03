@@ -6,10 +6,10 @@ body {
 
 header {
   display: block;
-  left: auto;
-  right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
-  color: red;
+
 }
