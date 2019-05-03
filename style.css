@@ -27,10 +27,9 @@ figcaption {
 #featured-property {
   display: block;
   margin: auto;
-  color: red;
+  width: 800px;
 }
 
 #featured-property p {
-  width: 800px;
   text-align: center;
 }
